@@ -1,2 +1,14 @@
-# python-vigenere-encryption
-This project implements the Vigenère cipher in Python for encrypting and decrypting messages.
+# Vigenère Cipher in Python
+
+This project implements the Vigenère cipher, a symmetric encryption algorithm, in Python.
+
+## Features
+
+- Encrypt messages with a custom key.
+- Decrypt messages encrypted using the same key.
+
+## How to Use
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/amandaGrativol/python-vigenere-encryption.git
