@@ -1,6 +1,7 @@
 # Vigenère Cipher in Python
 
 This project implements the Vigenère cipher, a symmetric encryption algorithm, in Python.
+This project was developed with freecodecamp in the course scientific computing with Python.
 
 ## Features
 
